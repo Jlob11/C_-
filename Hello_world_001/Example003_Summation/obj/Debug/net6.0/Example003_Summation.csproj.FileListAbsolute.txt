@@ -1,0 +1,15 @@
+D:\Geek\C#\Hello_world_001\Example003_Summation\bin\Debug\net6.0\Example003_Summation.exe
+D:\Geek\C#\Hello_world_001\Example003_Summation\bin\Debug\net6.0\Example003_Summation.deps.json
+D:\Geek\C#\Hello_world_001\Example003_Summation\bin\Debug\net6.0\Example003_Summation.runtimeconfig.json
+D:\Geek\C#\Hello_world_001\Example003_Summation\bin\Debug\net6.0\Example003_Summation.dll
+D:\Geek\C#\Hello_world_001\Example003_Summation\bin\Debug\net6.0\Example003_Summation.pdb
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\Example003_Summation.csproj.AssemblyReference.cache
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\Example003_Summation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\Example003_Summation.AssemblyInfoInputs.cache
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\Example003_Summation.AssemblyInfo.cs
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\Example003_Summation.csproj.CoreCompileInputs.cache
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\Example003_Summation.dll
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\refint\Example003_Summation.dll
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\Example003_Summation.pdb
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\Example003_Summation.genruntimeconfig.cache
+D:\Geek\C#\Hello_world_001\Example003_Summation\obj\Debug\net6.0\ref\Example003_Summation.dll
